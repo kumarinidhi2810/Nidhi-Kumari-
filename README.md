@@ -40,6 +40,7 @@ Non-Technical: Problem Solving,  Leadership, Time Management, Teamwork.
 - Hackerrank: [https://www.hackerrank.com/profile/nidhibhardwaj282]
 - Linkedin: [https://www.linkedin.com/in/nidhi-kumari-05aa8a246/]
 - GitHub: [https://github.com/kumarinidhi2810]
+  
 
 Feel free to replace the placeholders with your actual profile links and information.
 
