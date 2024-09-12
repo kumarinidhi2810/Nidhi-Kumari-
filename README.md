@@ -4,7 +4,7 @@
 Sure, here's the corrected version of the provided resume:
 
 **Nidhi Kumari**
-Bihar, India | 📞 +91 620*******| 📧 nidhibhardwaj2810@gmail.com | 🌐 https://www.linkedin.com/in/nidhi-kumari-05aa8a246/
+Bihar, India | 📞 +91 620*******| 📧 nidhibhardwaj2810@gmail.com | 🌐 www.linkedin.com/in/nidhi-k28
 
 **Education**
 
@@ -31,7 +31,7 @@ Bihar, India | 📞 +91 620*******| 📧 nidhibhardwaj2810@gmail.com | 🌐 http
 
 **Technical Skills**
 
-Technical: C, C++, Java, Manual Testing, HTML, CSS, Excel
+Technical: Java, MYSQL, Python, React, HTML, CSS, Excel
 
 Non-Technical: Problem Solving,  Leadership, Time Management, Teamwork.
 
